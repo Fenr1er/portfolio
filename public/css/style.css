@@ -1,23 +1,71 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 body {
-  /* background-image: url("../img/bgimg.webp"); */
-  background-color: aquamarine !important;
+  background-image: url("/img/bgimg.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
-#navbar {
-  background-image: url("../img/navImg.jpg");
+/* #navbar {
+  background-image: url("/img/navImg.jpg");
   background-size: cover;
   background-repeat: repeat;
   background-position: center;
   padding: 20px 0;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
   transition: all 0.5s;
-}
+} */
 
-.header {
-  background-color: #900;
+header {
   color: white;
   padding: 10px 0;
   text-align: center;
   margin-bottom: 20px;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
+
+#navbar .navbar-brand{
+  color: white;
+}
+
+#offcanvasTop {
+  background-image: url("/img/navImg.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: top;
+  padding: 20px 0;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  transition: all 0.5s;
+}
+
+.offcanvas-header,
+li {
+  color: white;
+}
+.offcanvas {
+  --bs-offcanvas-height: 40vh !important;
+}
+
+main,
+.mt-5 {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+#about-me {
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  text-align: justify;
+  padding: 5px;
+}
+.offcanvas-header {
+  display: flex;
+  align-items: center;
+ --bs-offcanvas-padding-y: 10px !important;
+ --bs-offcanvas-padding-x: 10px !important;
+}
+.offcanvas-body{
+  --bs-offcanvas-padding-y: 4px !important;
+  --bs-offcanvas-margin-y: 4px !important;
+}
