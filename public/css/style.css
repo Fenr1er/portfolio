@@ -47,6 +47,7 @@ li {
 
 main,
 .mt-5 {
+  margin-bottom: 20vh;
   background-color: rgba(255, 255, 255, 0.4);
   padding: 20px;
   border-radius: 10px;
@@ -68,4 +69,20 @@ main,
 .offcanvas-body{
   --bs-offcanvas-padding-y: 4px !important;
   --bs-offcanvas-margin-y: 4px !important;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  top: 95%;
+  width: 100%;
+  text-align: center;
+  background-image: url("/img/navImg.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  padding: 10px;
+  
+  color: white;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+
 }
