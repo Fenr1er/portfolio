@@ -1,11 +1,16 @@
 <?php
 // Definiere deine Skills und deren Level in Prozent
 $skills = [
-    'JavaScript'    => 45,
-    'TypeScript'    => 35,
-    'PHP'           => 50,
-    'HTML & CSS'    => 70,
-    'Git & GitHub'  => 55,
+    'HTML'                              => 80,
+    'CSS'                               => 70,
+    'Responsive Webdesign'              => 65,
+    'JavaScript (Vanilla)'              => 60,
+    'PHP & MySQL'                       => 55,
+    'OOP (PHP/JS)'                      => 50,
+    'Git & GitHub'                      => 60,
+    'Accessibility (Barrierefreiheit)'  => 50,
+    'Debugging & Fehlersuche'           => 55,
+    'Projekt- & Selbstmanagement'       => 65,
 ];
 
 // Render die Skill-Bars

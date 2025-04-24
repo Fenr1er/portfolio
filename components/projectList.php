@@ -29,7 +29,7 @@ $projects = [
             'title'       => 'Portfolio Code',
             'img'         => './assets/images/project/portfolio_SS.png',
             'description' => 'Get my Portfolio Code',
-            'link'        => 'https://github.com/Fenr1er?tab=repositories'
+            'link'        => 'https://github.com/Fenr1er/portfolio'
         ],
     ],
     'apps' => [

@@ -15,7 +15,7 @@
 
     <nav class="nav-main" role="navigation" aria-label="Main Navigation">
         <div class="nav-logo">
-            <img src="assets\images\150x150.svg" alt="Michael del Negros Portfolio Logo">
+            <img src="assets\images\MdN_Logo.png" alt="Michael del Negros Portfolio Logo">
         </div>
         <div class="nav-links">
             <a href="index.php" class="<?= basename($_SERVER['PHP_SELF']) === 'index.php' ? 'active' : '' ?>">Home</a>

@@ -1,6 +1,6 @@
 <footer role="contentinfo" aria-label="Footer Information">
     <section class="footer-logo">
-        <img src="assets/images/150x150.svg" alt="Michael del Negros Portfolio Logo">
+        <img src="assets/images/MdN_Logo.png" alt="Michael del Negros Portfolio Logo">
     </section>
     <section class="footer-contact" itemscope itemtype="http://schema.org/Person">
         <h1 itemprop="name">Michael del Negro</h1>
