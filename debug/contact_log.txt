@@ -1,0 +1,22 @@
+[2025-04-24 13:37:47] Subject: Contact Form Submission from test, test
+Sent at: 2025-04-24 13:37:47
+
+Name: test
+Company: test
+Email: test@test.com
+Phone: 
+
+Message:
+tsdf
+------------------------------------------------------------
+[2025-04-24 14:22:32] Subject: Contact Form Submission from Fenrier, Meine Firma
+Sent at: 2025-04-24 14:22:32
+
+Name: Fenrier
+Company: Meine Firma
+Email: koller.michael@rocketmail.com
+Phone: 
+
+Message:
+asdfghjklöä
+------------------------------------------------------------
