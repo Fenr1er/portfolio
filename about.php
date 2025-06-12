@@ -48,7 +48,7 @@ include 'components/header.php';
     </aside>
 
     <article class="call">
-        <p>If you want to work with me, have advice, or just want to say hi – feel free to <a href="/contact.php">get in touch</a>. I'm always happy to connect with like-minded people.</p>
+        <p>If you want to work with me, have advice, or just want to say hi – feel free to <a href="contact.php">get in touch</a>. I'm always happy to connect with like-minded people.</p>
     </article>
 
 </main>

@@ -122,3 +122,11 @@ Cross-Browser-Tests (Chrome, Firefox, Edge, Safari) und Responsiveness prüfen (
 Formular-Tests: tatsächliches Abschicken, E-Mail-Empfang, Spam-Filter-Verhalten.
 
 Letzter Check: Broken Links (z. B. mit Screaming Frog).
+
+<!-- --------------------------- barrierefreihei --------------------------- -->
+
+skip to footer
+
+pointer on links
+
+Hinweis Barrierefreiheit

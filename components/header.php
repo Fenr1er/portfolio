@@ -24,6 +24,7 @@
             <a href="contact.php" class="<?= basename($_SERVER['PHP_SELF']) === 'contact.php' ? 'active' : '' ?>">Contact</a>
         </div>
         <div class="mode-switch">
+            <label for="toggle-light">Contrast Switch</label>
             <button name="modebtn" aria-label="Toggle light / dark mode" id="modebtn"></button>
         </div>
     </nav>
